@@ -1,0 +1,159 @@
+
+@media (min-width: 360px)and (max-width: 660px){
+
+    .oone{
+            display: none;
+            /* font-size: 5vmax; */
+        }
+    .otwo{
+        display: none;
+    }
+    .othree{
+        display: none;
+    }
+    .ofour{
+        display: none;
+    }
+    .ofive{
+        display: none;
+    }
+    .nav{
+        display: flex;
+        justify-content: space-around;
+        /* justify-content: end; */
+        
+    }
+    
+    .navbottom{
+        padding-top: 1vmax;
+        flex-wrap: wrap;
+        font-size: 2vmax;
+        justify-content: space-around;
+    }
+    .containeroneleft > button{ 
+        width: 40vmax;
+        justify-content: space-around;
+    }
+    
+    .containertwo > span{
+        flex-wrap: wrap;
+        text-align:left;
+        
+    }
+    .containertwo{
+        min-height: 120vh;
+    }
+    .recharge{
+        flex-wrap: wrap;
+        /* width:19vmax; */
+        /* justify-content: flex-start; */
+        
+        
+    }
+    .recharge > li{
+        width: 19vmax;
+    }
+    
+    .containerthree{
+        min-height: 120vh;
+    }
+    .Bookandbuy{
+        flex-wrap: wrap;
+    }
+    .Bookandbuy > li{
+        width: 19vmax;
+    }
+    .containerfour{
+        display: none;
+    }
+    .containerfive{
+        display: none;
+    }
+    .containersix{
+        display: none;
+    }
+    .containerseven{
+        display: none;
+    }
+    .containereight{
+        display: none;
+    }
+    .containernine{
+        display: none;
+    }
+    .containerten{
+        display: none;
+    }
+    .containereleven{
+        display: none;
+    }
+    .containertwelve{
+        display: none;
+    }
+    .container13{
+        display: none;
+    }
+    .container14 {
+        display: none;
+    }
+    .container15{
+         display: none;
+    }
+    .container16{
+        min-height: 170vh;
+        background-color: #fff;
+    }
+    .container16in{
+        min-height:auto;
+        flex-wrap: wrap;
+        background-color: #fff;
+    }
+    .container16in > span{
+        text-align: center;
+        width: 20vmax;
+        justify-content: space-evenly;
+    }
+    .container17{
+        min-height: 170vh;
+        
+        background-color: #fff;
+    }
+    .container17in{
+        min-height:auto;
+        flex-wrap: wrap;
+        background-color: #fff;
+    }
+    .container17in > span{
+        text-align: center;
+        width: 20vmax;
+        justify-content: space-evenly;
+    }
+    .container18{
+        min-height: 40vh;
+        /* min-height:auto; */
+        flex-wrap: wrap;
+        background-color: #fff;
+    }
+    .container18 > span{
+        text-align: center;
+        width: 50vmax;
+    }
+    .right18{
+        display: none;
+    }
+    .ri-google-play-fill{
+        margin-left: 4vh;
+        
+    }
+    .ri-apple-fill{
+        margin-left: 5vh;
+    }
+    .container19{
+        min-height: 150vh;
+        flex-wrap: wrap;
+        background-color: #fff;
+        font-size: 2.2vmax;
+        font-weight: 900;
+    }
+}
+    
